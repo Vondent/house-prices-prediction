@@ -14,3 +14,5 @@ Implements Regression Models such as:
 - Stacking Regression
 
 With the use of these regression models and 79 explanatory variables, I have applied Data Wrangling/Mutation to discover an accurate model which can predict the Final Sale Price of a House
+
+**score = 0.12814**
